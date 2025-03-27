@@ -1,0 +1,6 @@
+title: OneClicke Legal Documents
+description: Terms of Service and Privacy Policy for OneClicke
+theme: jekyll-theme-minimal
+baseurl: "/oneclick-legal"
+url: ""
+include: ["index.html"] 
